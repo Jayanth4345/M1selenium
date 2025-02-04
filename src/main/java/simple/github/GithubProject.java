@@ -8,5 +8,6 @@ public class GithubProject {
 	@Test
 	public void sample() {
 		System.out.println("pratice github");
+		System.out.println("second");
 	}
 }
